@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../context-hooks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -29,6 +29,16 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rajaravi\WebstormProjects\test-answers\src\data" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Sample1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Sample1.js" working-dir="$PROJECT_DIR$/src/components">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Sample1.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581446132551</updated>
-      <workItem from="1581446133778" duration="17510000" />
+      <workItem from="1581446133778" duration="17914000" />
+      <workItem from="1581522310070" duration="17108000" />
     </task>
     <servers />
   </component>
@@ -60,10 +71,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1386" y="122" width="1229" height="637" key="dock-window-1" timestamp="1581464895135">
+    <state x="799" y="219" key="FileChooserDialogImpl" timestamp="1581545059295">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="799" y="219" key="FileChooserDialogImpl/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581545059295" />
+    <state x="-1650" y="296" width="1229" height="637" maximized="true" key="dock-window-1" timestamp="1581550226109">
       <screen x="-1920" y="122" width="1920" height="1080" />
     </state>
-    <state x="-1386" y="122" width="1229" height="637" key="dock-window-1/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581464895135" />
+    <state x="-1650" y="296" width="1229" height="637" maximized="true" key="dock-window-1/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581550226109" />
     <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1581464713730">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
