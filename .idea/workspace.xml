@@ -20,23 +20,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../context-hooks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hotel-reservations-answer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajaravi\WebstormProjects\test-answers\src\components" />
       <recent name="C:\Users\rajaravi\WebstormProjects\test-answers\src\data" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Sample1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Sample1.js" working-dir="$PROJECT_DIR$/src/components">
+    <configuration name="AlphaCiper.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/AlphaCiper.js" working-dir="$PROJECT_DIR$/src/components">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Sample1.js" />
+        <item itemvalue="Node.js.AlphaCiper.js" />
       </list>
     </recent_temporary>
   </component>
@@ -63,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581446132551</updated>
       <workItem from="1581446133778" duration="17914000" />
-      <workItem from="1581522310070" duration="17108000" />
+      <workItem from="1581522310070" duration="18896000" />
+      <workItem from="1581607158858" duration="13672000" />
     </task>
     <servers />
   </component>
@@ -71,17 +73,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="799" y="219" key="FileChooserDialogImpl" timestamp="1581545059295">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581623727248">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-125.1536.928/0.0.1920.1040@0.0.1920.1040" timestamp="1581623727248" />
+    <state x="-1121" y="96" key="FileChooserDialogImpl" timestamp="1581628697976">
+      <screen x="-1920" y="-125" width="1536" height="928" />
+    </state>
+    <state x="-1121" y="96" key="FileChooserDialogImpl/-1920.-125.1536.928/0.0.1920.1040@-1920.-125.1536.928" timestamp="1581628697976" />
     <state x="799" y="219" key="FileChooserDialogImpl/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581545059295" />
-    <state x="-1650" y="296" width="1229" height="637" maximized="true" key="dock-window-1" timestamp="1581550226109">
-      <screen x="-1920" y="122" width="1920" height="1080" />
+    <state x="270" y="168" width="1229" height="614" key="dock-window-1" timestamp="1581607247102">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1650" y="296" width="1229" height="637" maximized="true" key="dock-window-1/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581550226109" />
-    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1581464713730">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state x="270" y="168" width="1229" height="614" key="dock-window-1/-1920.-125.1536.928/0.0.1920.1040@0.0.1920.1040" timestamp="1581607247102" />
+    <state x="-1650" y="296" width="1229" height="637" key="dock-window-1/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581552746783" />
+    <state x="539" y="220" width="840" height="767" key="search.everywhere.popup" timestamp="1581624687119">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="539" y="220" width="840" height="767" key="search.everywhere.popup/-1920.-125.1536.928/0.0.1920.1040@0.0.1920.1040" timestamp="1581624687119" />
     <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1536.920/-1920.122.1920.1080@0.0.1536.920" timestamp="1581464713730" />
   </component>
 </project>
